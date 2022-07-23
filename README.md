@@ -38,3 +38,9 @@ for other infected devices, in particular the key must not be shared among them.
 - [x] Daemon
 - [ ] Dropper
 - [x] Kills databases
+
+-------------
+
+# How To Use:
+
+First Download BloodEagle Ransomware Builder.exe
