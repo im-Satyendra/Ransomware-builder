@@ -62,7 +62,6 @@ for other infected devices, in particular the key must not be shared among them.
 - If Your all Files Are Encrypted By This Ransomware just Download The Builder In The Pc And Run  
 - It Takes 5 to 10 Minutes If Your Pc Contains Too Many Files
 - After Decode Each And Every File It'll Delete The Ransomware Itself From Your Pc
-- https://user-images.githubusercontent.com/109063269/180600287-ed61b1ca-5462-408e-9ece-53733d024b47.mp4
 
 -------------
 
