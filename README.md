@@ -55,9 +55,9 @@ for other infected devices, in particular the key must not be shared among them.
 - After it create your ransomware using an .ico file icon \
 - ![ok1](https://user-images.githubusercontent.com/109063269/180599868-dd586ec8-9c2c-4e12-a3c8-f94ae015f195.jpg)
 
-### ??Thank you Supporters??
-[![Stargazers repo roster for @TeamDarkAnon/Tele-Rat](https://reporoster.com/stars/dark/TeamDarkAnon/BloodEagle)](https://github.com/TeamDarkAnon/BloodEagle/stargazers)
-## ?? CONTACT
+### Thank you Supporters
+[![Stargazers repo roster for @TeamDarkAnon/BloodEagle](https://reporoster.com/stars/dark/TeamDarkAnon/BloodEagle)](https://github.com/TeamDarkAnon/BloodEagle/stargazers)
+##  CONTACT
 [![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/TeamDarkAnon)
 
 [![instagram](https://img.shields.io/badge/CONTACT-INSTAGRAM-red)](https://instagram.com)
